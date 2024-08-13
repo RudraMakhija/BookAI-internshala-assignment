@@ -1,6 +1,6 @@
 const Tutorial = () => {
   return (
-    <section className="flex justify-center py-8 px-4 bg-[#F3F4F6] dark:bg-[#0F172A]">
+    <section className="flex justify-center py-8 px-4 bg-white dark:bg-[#0F172A]">
       <div className="bg-[#E5E7EB] dark:bg-[#1E293B] text-gray-700 dark:text-gray-300 p-6 md:p-8 rounded-lg max-w-5xl w-full mx-auto shadow-lg">
         <h2 className="text-2xl md:text-3xl font-bold text-[#4F46E5] dark:text-[#A5B4FB] my-6 md:my-12">
           Tutorial
